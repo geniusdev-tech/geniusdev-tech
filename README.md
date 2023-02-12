@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Lima CEO at <b>GeniusDev - Information Technology Specialist</b></h1>
+<h2 align="center">Hi 👋, I'm Rodrigo Lima CEO at <b>GeniusDev - Information Technology Specialist</b></h2>
 
 I am Rodrigo Lima. I am a software engineer.
 
@@ -74,6 +74,7 @@ I am Rodrigo Lima. I am a software engineer.
 <a href="https://www.facebook.com/rodericus.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 <a href="https://instagram.com/rodrigo.crypt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
 <a href="https://github.com/geniusdev-tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
+<a href="https://wa.me/5582999993986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="HridoyHazard" height="30" width="40" /></a>  
     
 <br>
 
