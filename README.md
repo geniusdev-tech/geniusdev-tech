@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Rodrigo Lima<b>Information Technology Specialist</b></h2>
+<h2 align="center">Hi 👋, I'm Rodrigo Lima <b>Information Technology Specialist</b></h2>
 
 I am Rodrigo Lima. I am a software engineer.
 
