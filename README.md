@@ -97,5 +97,5 @@
 
 "geniusdev-tech" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=geniusdev-tech&show_icons=true&locale=en" alt="geniusdev-tech" /></p> <p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geniusdev-tech&" alt="geniusdev-tech" /></p>
+
 
