@@ -19,6 +19,7 @@ h3 align="left">Idiomas e ferramentas:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geniusdev-tech&show_icons=true&locale=en&layout=compact" alt=
 
-"geniusdev-tech" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=geniusdev-tech&show_icons=true&locale=en" alt="geniusdev-tech" /></p> <p>
+"geniusdev-tech" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=geniusdev-tech&show_icons=true&locale=en" alt="geniusdev-tech" /></p> <p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geniusdev-tech&" alt="geniusdev-tech" /></p>
+
