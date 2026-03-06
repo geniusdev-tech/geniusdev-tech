@@ -13,8 +13,6 @@
 Sou um **Desenvolvedor FullStack** apaixonado por transformar ideias em soluções digitais de alto impacto. Com experiência em desenvolvimento web, back-end, cloud e DevOps, estou sempre buscando inovar e entregar resultados que agreguem valor aos negócios.
 
 
-- 📧 **Email:** geniusdev.tech@proton.me
-
 ---
 
 ## 🛠️ Habilidades Técnicas
