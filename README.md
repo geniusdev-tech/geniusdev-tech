@@ -55,14 +55,6 @@ Sou um **Desenvolvedor FullStack** apaixonado por transformar ideias em soluçõ
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniusdev-tech&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=geniusdev-tech&show_icons=true&locale=en&theme=light" alt="Stats" />
-</p>
-
----
-
 ## 📞 Conecte-se Comigo
 <p align="center">
   <a href="mailto:geniusdev.tech@proton.me">
