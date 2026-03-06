@@ -68,16 +68,10 @@ Sou um **Desenvolvedor FullStack** apaixonado por transformar ideias em soluçõ
   <a href="mailto:geniusdev.tech@proton.me">
     <img src="https://img.shields.io/badge/-Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/geniusdev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/datasenseit" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
   <a href="https://instagram.com/datasense.it" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://datasenseit.tech/" target="_blank">
+  <a href="https://zeus-portfolio-iota.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
