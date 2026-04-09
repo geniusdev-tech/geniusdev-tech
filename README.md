@@ -1,54 +1,58 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=Rodrigo+Lima" alt="Rodrigo Lima" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=0077B5&center=true&vCenter=true&width=435&lines=Rodrigo+Lima;FullStack+Architect;DevOps+Enthusiast" alt="Rodrigo Lima" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=geniusdev-tech&label=Profile%20Views&color=0077B5&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/badge/Status-Active-28A745?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Building_GateStack-28A745?style=flat-square" alt="Status" />
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
-Sou um **Desenvolvedor FullStack** apaixonado por transformar ideias em soluções digitais de alto impacto. Com experiência em desenvolvimento web, back-end, cloud e DevOps, estou sempre buscando inovar e entregar resultados que agreguem valor aos negócios.
+Sou um **Desenvolvedor FullStack & Arquiteto de Software** focado em criar ecossistemas digitais de alta performance. Atualmente, estou liderando o desenvolvimento do **GateStack Premium**, uma plataforma de Social-Coding que funde a robustez do Git com a agilidade do chat em tempo real, sob uma estética "Mission Control".
 
+---
+
+## 🏗️ Projeto em Destaque: GateStack
+O **GateStack** é a minha vitrine técnica atual, integrando:
+- **Git Smart HTTP Protocol**: Implementação nativa para operações de controle de versão.
+- **Svelte 5 (Runes)**: UI reativa de próxima geração com foco em performance e UX "Premium".
+- **Observabilidade Enterprise**: Stack completa com Prometheus, Grafana e logging estruturado.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
-### Linguagens de Programação
+
+### Core Stack (Modern Web)
 <p>
-  <img src="https://img.shields.io/badge/Python-98%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-85%25-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-80%25-B07219?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-75%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-95%25-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/NestJS-90%25-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/SvelteKit_5-85%25-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit" />
+  <img src="https://img.shields.io/badge/Node.js-92%25-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
-### Front-end
+### Front-end & Design
 <p>
-  <img src="https://img.shields.io/badge/React-93%25-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-88%25-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-90%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-85%25-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind-80%25-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Tailwind-90%25-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/TanStack_Query-85%25-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Glassmorphism-Expert-cyan?style=flat-square" alt="Glassmorphism" />
 </p>
 
-### Back-end
+### Back-end & Data
 <p>
-  <img src="https://img.shields.io/badge/Node.js-90%25-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-85%25-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-80%25-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-75%25-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Prisma_ORM-90%25-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-88%25-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis_/_BullMQ-80%25-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Socket.io-85%25-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
 </p>
 
 ### Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/AWS-90%25-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-85%25-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Docker-87%25-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-95%25-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-85%25-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-90%25-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-80%25-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/CI/CD-85%25-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Linux_Server-88%25-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
@@ -69,5 +73,5 @@ Sou um **Desenvolvedor FullStack** apaixonado por transformar ideias em soluçõ
 ---
 
 <p align="center">
-  <em>"Transformando ideias em soluções digitais."</em>
+  <em>"Engenhando interfaces que respiram e backends que não dormem."</em>
 </p>
