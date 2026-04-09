@@ -58,10 +58,10 @@ MiB Mem :  64321.0 total,  58120.4 free,   4200.6 used,   2000.0 buff/cache
 ```yaml
 contact_protocol:
   email: "geniusdev.tech@proton.me"
-  web: "https://zeus-portfolio-iota.vercel.app/"
-  instagram: "@datasense.it"
+  web: "zeusprotocol.cloud"
+  instagram: "@zeusprotocol.clouf"
   availability: "High"
-  preferred_comms: ["Git", "Email", "Discord"]
+  preferred_comms: ["Git", "Email", "IG"]
 ```
 
 ---
