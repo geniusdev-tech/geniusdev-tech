@@ -1,112 +1,94 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=39FF14&center=true&vCenter=true&width=500&lines=systemctl+status+rodrigo-lima;Initializing+GateStack+Premium...;Deploying+Production+Grade+Solutions...;ssh+admin@geniusdev-tech" alt="Terminal Typing" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geniusdev-tech&label=NODE_TRAFFIC&color=39FF14&style=flat-square" alt="Traffic" />
-  <img src="https://img.shields.io/badge/Uptime-99.9%25-39FF14?style=flat-square&logo=statuspage&logoColor=black" alt="Uptime" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=39FF14&center=true&vCenter=true&width=600&lines=$+tail+-f+/var/log/presence;Status:+High+Availability+Expert;Stack:+NestJS+%2B+SvelteKit+5;Current+Role:+Software+Architect" alt="Terminal Typing" />
 </p>
 
 ```text
-[  OK  ] Initializing Rodrigo Lima Architecture...
-[  OK  ] Loading modules: NestJS, SvelteKit 5, Prisma, Docker.
-[  OK  ] Connecting to PostgreSQL Cluster...
-[  OK  ] Real-time WebSockets established.
-[  OK  ] Mission Control UI: Online.
+[ SYSTEM INFO ]
+HOSTNAME: geniusdev-tech
+KERNEL: FullStack-Core-v5.0-LTS
+UPTIME: 9+ Years of Development
+STATUS: 🚀 Ready to Scale
 ```
 
 ---
 
-## 👤 $ whoami
-> **Rodrigo Lima** | **FullStack Engineer & Infrastructure Architect**
-> 
-> "Transformando café em código resiliente e infraestrutura imutável."
-> Atualmente escalando o repositório **GateStack** — uma fusão de VCS e colaboração em tempo real.
+## 📂 $ cat /etc/profile/specialization.md
+
+Sou um **Arquiteto de Software & Engenheiro FullStack** especializado em transformar complexidade técnica em produtos de alto impacto. Meu foco é a construção de sistemas distribuídos, APIs resilientes e interfaces de alto desempenho que sigam os padrões Enterprise mais rigorosos.
 
 ---
 
-## 🛠️ $ systemctl list-units --type=skill
+## 🏗️ $ terraform plan --target=skills
 
-### 📦 Containerized Skills (Infrastructure as Code)
-```hcl
-resource "developer_skills" "rodrigo" {
-  backend {
-    runtime     = "Node.js / Bun"
-    framework   = "NestJS"
-    language    = "TypeScript"
-    orm         = "Prisma"
-    database    = "PostgreSQL"
-    logic       = ["Zod", "BullMQ", "Redis"]
-  }
+### 🟢 Backend Infrastructure (Primary Stack)
+- **Frameworks**: NestJS, Node.js, Bun.
+- **Languages**: TypeScript (Expert), JavaScript, Python.
+- **Data Persistence**: Prisma ORM, PostgreSQL, Redis, MongoDB.
+- **Architecture**: Microservices, Event-Driven (BullMQ), RESTful APIs.
 
-  frontend {
-    framework   = "SvelteKit 5 (Runes)"
-    styling     = "TailwindCSS"
-    state_mgmt  = "TanStack Query v5"
-    bundler     = "Vite"
-    ux_style    = "Premium Glassmorphism"
-  }
+### 🔵 Frontend Engine (Mission Control)
+- **Logic**: SvelteKit 5 (Runes Expert), TanStack Query v5.
+- **Styling**: TailwindCSS, CSS Variables (HSL), Modern Glassmorphism.
+- **State**: Reactive Stores, Context API, High-Fidelity UI/UX.
 
-  devops_infra {
-    orchestration = "Docker / Compose"
-    proxy        = "Nginx"
-    observability = ["Prometheus", "Grafana", "Pino"]
-    protocols     = ["Git Smart HTTP", "WebSockets"]
-    deployment    = ["Fly.io", "Railway", "GHCR"]
-  }
-}
-```
+### ⚙️ DevOps & Ecosystem
+- **Environment**: Docker, Docker Compose, Nginx (Reverse Proxy).
+- **Observability**: Prometheus, Grafana, Pino Logging.
+- **Deployment**: CI/CD Pipelines (GitHub Actions), Fly.io, Railway, Cloud Providers (AWS/Azure).
 
 ---
 
-## 📈 $ htop --sort-by=impact
+## 📊 $ top -u rodrigo_lima
 
 ```text
-  CPU [||||||||||||||||||||||||||||||||||||||||||||||||||||  98.0%]
-  MEM [||||||||||||||||||||||||||||||||||||||||||            85.2%]
-  
-  PID   USER          COMMAND                                STATUS
-  101   rodrigo       ./GateStack-Premium --mode=enterprise  [ RUNNING ]
-  102   rodrigo       ./Svelte5-Migration --force-runes     [ COMPLETED ]
-  103   rodrigo       ./Git-Protocol-Rewrite --smart-http   [ COMPLETED ]
-  104   rodrigo       ./Auth-MFA-Logic --totp-verify        [ IN_PROGRESS ]
-  105   rodrigo       ./AI-Chat-Context --rag-indexing      [ QUEUED ]
+Tasks: 12 total, 1 running, 11 sleeping, 0 stopped, 0 zombie
+%Cpu(s): 85.0 us, 10.5 sy,  0.0 ni,  4.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  64321.0 total,  58120.4 free,   4200.6 used,   2000.0 buff/cache
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1024 rodrigo   20   0  128.5g  12.2g  512.4 S  95.0  18.0  infinite Software_Architecture
+ 2048 rodrigo   20   0   64.2g   8.1g  256.2 S  88.5  12.5  infinite UI_UX_Design
+ 4096 rodrigo   20   0   32.1g   4.5g  128.8 S  75.2   7.2  infinite DevOps_Engineering
 ```
 
 ---
 
-## 📡 $ curl -X GET /user/contact
+## 📡 $ curl -sSL https://api.geniusdev.tech/contact
 
-```json
-{
-  "email": "geniusdev.tech@proton.me",
-  "identity": {
-    "name": "Rodrigo Lima",
-    "handle": "geniusdev-tech",
-    "role": "FullStack Architect"
-  },
-  "social": {
-    "instagram": "@datasense.it",
-    "web": "https://zeus-portfolio-iota.vercel.app/"
-  },
-  "status": "Ready for high-availability collaboration"
-}
+```yaml
+contact_protocol:
+  email: "geniusdev.tech@proton.me"
+  web: "https://zeus-portfolio-iota.vercel.app/"
+  instagram: "@datasense.it"
+  availability: "High"
+  preferred_comms: ["Git", "Email", "Discord"]
 ```
 
 ---
 
-## 🔐 $ ssh-add -l profile
+## 🔑 $ ssh-keygen -t rsa -b 4096 -C "geniusdev"
 
-- `SHA256:FullStack_Expertise_NestJS_SvelteKit_Docker`
-- `SHA256:GateStack_Core_Architect`
-- `SHA256:Premium_UX_Specialist`
+```text
++---[ RSA 4096 ]----+
+|       . . .       |
+|      . o . .      |
+|     . o . . .     |
+|      o . o . .    |
+|       S . o o     |
+|      . * + + .    |
+|       * B B .     |
+|        = @ o      |
+|         = E.      |
++----[ [RODRIGO] ]---+
+```
 
 ```bash
-# Session ended. System running in background.
-# Logout successful.
+# De-initializing session...
+# System remaining in persistent background mode.
 exit
 ```
+
 ---
 <p align="center">
-  <em>"Engenhando interfaces que respiram e backends que não dormem."</em>
+  <img src="https://komarev.com/ghpvc/?username=geniusdev-tech&label=BYTE_TRAFFIC&color=39FF14&style=flat-square" alt="Traffic" />
 </p>
